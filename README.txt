@@ -1,7 +1,7 @@
 AnyLangTranslate Project by Automation Marshals
 
 Team Members:
-Shaik Sameer Basha
+Shaik Sameer Basha(Me as a Team Lead)
 K. Rajesh
 M. Veeramanikanta
 
